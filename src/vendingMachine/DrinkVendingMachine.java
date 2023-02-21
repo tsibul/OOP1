@@ -1,5 +1,7 @@
 package vendingMachine;
 
-public class DrinkVendingMachine extends VendingMachine{
+import product.Drink;
+
+public class DrinkVendingMachine extends VendingMachine<Drink> {
 
     }
