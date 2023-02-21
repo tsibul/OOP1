@@ -1,8 +1,10 @@
+package product;
+
 public class Product {
     private String name;
     private float price;
 
-    Product(String name, float price){
+    Product(String name, float price) {
         this.name = name;
         this.price = price;
     }
@@ -23,7 +25,7 @@ public class Product {
         return name;
     }
 
-    public void consume(Product pr){
+    public void consume(Product pr) {
         System.out.println(pr.getName() + " spent");
     }
 

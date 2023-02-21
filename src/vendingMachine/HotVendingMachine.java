@@ -1,3 +1,8 @@
+package vendingMachine;
+
+import product.HotDrink;
+import product.Product;
+
 import java.util.ArrayList;
 
 public class HotVendingMachine extends DrinkVendingMachine{

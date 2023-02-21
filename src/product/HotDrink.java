@@ -1,3 +1,5 @@
+package product;
+
 public class HotDrink extends Drink{
 
     private int temperature;

@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+package vendingMachine;
 
 public class DrinkVendingMachine extends VendingMachine{
 

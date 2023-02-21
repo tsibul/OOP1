@@ -1,3 +1,9 @@
+import product.Drink;
+import product.HotDrink;
+import product.Product;
+import vendingMachine.HotVendingMachine;
+import vendingMachine.VendingMachine;
+
 import java.util.ArrayList;
 
 public class Main {

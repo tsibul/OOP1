@@ -1,3 +1,5 @@
+package product;
+
 public class Drink extends Product {
     private float volume;
 
