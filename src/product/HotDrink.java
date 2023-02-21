@@ -4,7 +4,7 @@ public class HotDrink extends Drink{
 
     private int temperature;
 
-    HotDrink(String name, float price, float volume, int tmpr) {
+    public HotDrink(String name, float price, float volume, int tmpr) {
         super(name, price, volume);
         this.temperature = tmpr;
     }
